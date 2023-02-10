@@ -1,11 +1,16 @@
 # Polkadot
 
 Implementation of a <https://polkadot.network> node in Rust based on the Substrate framework.
+Implementación de <https://polkadot.network> nodos de Sustrato basados en el entorno de desarrollo para Rust.
 
-> **NOTE:** In 2018, we split our implementation of "Polkadot" from its development framework
-> "Substrate". See the [Substrate][substrate-repo] repo for git history prior to 2018.
 
+> **NOTA IMPORTANTE:** En 2018, nosotros separamos nuestra implementación de "Polkadot" de este entorno de desarrollo
+> "Substrato". Véa el [Substrate][substrate-repo] repositorio para el historial de  git history anterior a 2018.
 [substrate-repo]: https://github.com/paritytech/substrate
+> "Substrate". See the [Substrate][substrate-repo] repo for git history prior to 2018.
+[substrate-repo]: https://github.com/paritytech/substrate
+
+
 
 This repo contains runtimes for the Polkadot, Kusama, and Westend networks. The README provides
 information about installing the `polkadot` binary and developing on the codebase. For more
