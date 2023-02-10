@@ -251,12 +251,15 @@ Once you set this up you can take a look at the [Polkadot Grafana dashboards](gr
 
 ### Contributing Guidelines
 
+
 [Contribution Guidelines](CONTRIBUTING.md)
-
+[Guía de Colaboradores](CONTRIBUTING.md)
 ### Contributor Code of Conduct
-
+### Código de buenas prácticas de los colaboradores
+[Código de buenas prácticas](CODE_OF_CONDUCT.md)
 [Code of Conduct](CODE_OF_CONDUCT.md)
 
 ## License
-
+## Licencia
+Polkadot tiene licencia [GPL 3.0 licensed](LICENCIA).
 Polkadot is [GPL 3.0 licensed](LICENSE).
